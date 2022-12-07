@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>Emmet</h1>
+        <ul>
+            <li>Fast</li>
+            <li>Comfort</li>
+            <li>Not boring wallpaper</li>
+        </ul>
+        <p>Emmet helps me write layout faster1</p>
+        <p>Emmet helps me write layout faster2</p>
+        <p>Emmet helps me write layout faster3</p>
+        <p>Emmet helps me write layout faster4</p>
+        <p>Emmet helps me write layout faster5</p>
+        <p>Emmet helps me write layout faster6</p>
+        <p>Emmet helps me write layout faster7</p>
+        <p>Emmet helps me write layout faster8</p>
+        <p>Emmet helps me write layout faster9</p>
+        <p>Emmet helps me write layout faster10</p>
+    </main>
+</body>
+</html>

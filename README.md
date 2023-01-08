@@ -1,2 +1,2 @@
 # HTML-Cource
-Studu of HTML
+Study of HTML

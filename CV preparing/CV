@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Ivan, cv, resume">
+  <meta name="description" content="This is resume of Ivan Klochkov">
+  <link rel="stylesheet" href="style4.css">
+  <title>My descriptions</title>
+</head>
+
+<body>
+  <main>
+   <!-- <img href="../My CV/Picture.jpg" width="200" alt="My photo"> -->
+    <img href="https://sun9-85.userapi.com/impf/c840126/v840126116/7becf/cfPe1ZndEF4.jpg?size=2560x1707&quality=96&sign=b2f4028a990b54db1a33a11f0562afcf&type=album" 
+    width="200">
+    <h1>Klochkov Ivan Sergeevich</h1>
+    <hr>
+    <h2>JavaScript Developer, Researcher</h2>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>SECONDARY SCHOOL #19 2002-2011: Basic General Education</li>
+        <li>LYCEUM "TECHNICAL AND ECONOMIC" 2011-2013: Secondary School</li>
+        <li>ITMO UNIVERSITY: Bachelor's Degree</li>
+        <li>ITMO UNIVERSITY: Master's Degree</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Laser Engeneer</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Additional Information</h2>
+      
+      <p> I worked as a researcher for 6 years. Engaged in the production of laser technology. I collected laser emitters, tested
+      them and modernized them.</p>
+      
+      <p>In addition to his main work, he conducted and managed a company organizing outdoor events for 6 years.</p>
+      
+      <p>Incredibly I love to gain new knowledge, conquer new heights, try new things, develop and not stand still.</p>
+      
+      <p>A few facts about me:</p>
+      <ol>
+         <li>Scuba dived to a depth of 25 meters,</li>
+         <li>Jumped with a parachute,</li>
+         <li>I jumped with a rope from a height of 25 meters (I want to jump from 207 meters in Sochi),</li>
+         <li>Drove a car 8000 km in 3 weeks,</li>
+         <li>Conquered 3000 meters on a snowboard,</li>
+         <li>Flew in a balloon,</li>
+         <li>Visited 5 countries,</li>
+         <li>I bought my first car myself (the second one too :-))</li>
+      </ol>
+    </section>
+
+    <section>
+      <table width="500">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Ivan</th>
+                <th>27</th>
+                <th>Developer</th>
+            </tr>
+        </tbody>
+    </table>
+    </section>
+
+    <h3>Social network</h3>
+
+    <a href="https://vk.com/ivandok3" target="_blank">VK</a>
+    |
+    <a href="https://www.instagram.com/ivan_dok13" target="_blank">Instagram</a>
+    |
+    <a href="https://t.me/DokIvan" target="_blank">Telegram</a>
+
+  </main>
+</body>
+
+</html>

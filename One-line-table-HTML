@@ -1,1 +1,0 @@
-h1{Pain scale}+table.table>(thead>tr>th{Rating}+th{Pain Level})+tbody>(tr>td{0}+td{No Pain})+(tr>td{1-3}+td{Mild Pain (nagging, annoying, interfering little with ADLs)})+(tr>td{4-6}+td{Moderate Pain (interferes significantly with ADLs)})+tr>td{7-10}+td{Severe Pain (disabling; unable to perform ADLs)}

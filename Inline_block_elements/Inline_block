@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blocks</title>
+</head>
+<body>
+    <h1>Blocks</h1>
+
+    <p style="border: 2px solid blue">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla consectetur deserunt sit consequuntur laborum fugit aperiam. <strong>Vel labore</strong> rem veniam veritatis, itaque temporibus <span style="border: 5px solid greenyellow">adipisci expedita corrupti, et sequi explicabo?</span> Maxime.</p>
+
+    <p style="border: 2px solid rgb(77, 77, 108)">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla consectetur deserunt sit consequuntur laborum fugit aperiam. Vel labore rem veniam veritatis, itaque temporibus adipisci expedita corrupti, et sequi explicabo? Maxime.</p>
+
+    <a href="#" style="border: 5px solid red">This is the first link</a>
+    <a href="#" style="border: 5px solid rgb(62, 29, 29)">This is the second</a>
+    <div style="border: 2px solid blue">
+        <a href="#" style="border: 5px solid rgb(62, 29, 29)">This is the third</a>
+    </div>
+
+
+</body>
+</html>

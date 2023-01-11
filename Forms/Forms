@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Forms</h1>
+
+    <form>
+        <div>
+          <label for="text">Text</label>
+          <input type="text" id="text" value="Default text"></input>
+        </div>
+        
+        <div>
+            <label for="text">Text</label>
+            <input type="text" id="text" value="Default text" readonly></input>
+          </div>
+
+        <div>
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="Enter email"></input>
+        </div>
+
+        <div>
+          <label for="password">Password</label>
+          <input type="password" id="password"></input>
+        </div>
+
+        <div>
+            <label for="number">Number</label>
+            <input type="number" id="number" min="0" max="10" step="1.5"></imput>
+          </div>
+
+          <div>
+            <label for="range">Range</label>
+            <input type="range" id="range" min="0" max="10" step="1"></imput>
+          </div>
+
+          <div>
+            <label for="date">Date</label>
+            <input type="date" id="date"></imput>
+          </div>
+
+          <div>
+            <label for="color">Color</label>
+            <input type="color" id="color"></input>
+          </div>
+
+          <div>
+            <label for="message">Message</label>
+            <br>
+            <textarea id="message" cols="25" rows="5"></textarea>
+          </div>
+
+          <div>
+            <label for="sex">Your sex</label>
+            <select id="sex">
+                <option value="male">Man</option>
+                <option value="female">Woman</option>
+                <option value="other">Other</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="sex">Your sex</label>
+            <select id="sex">
+                <option value="male" >Man</option>
+                <option value="female" selected>Woman</option>
+                <option value="other">Other</option>
+            </select>
+          </div>
+
+          <div>
+            <label>Number of works</label>
+            <input type="radio" name="work"> 1
+            <input type="radio" name="work"> 2
+            <input type="radio" name="work"> 5
+            <input type="radio" name="work"> 10+
+          </div>
+
+          <div>
+            <label>Favorite food</label>
+            <input type="checkbox" name="food"> Potatoes
+            <input type="checkbox" name="food"> Bread
+            <input type="checkbox" name="food"> Apples
+            <input type="checkbox" name="food"> Fish
+          </div>
+
+          <input type="submit" value="Submit form">
+
+          <button type="submit">Submit form</button>
+    </form>
+</body>
+</html>

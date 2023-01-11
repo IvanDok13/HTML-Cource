@@ -1,0 +1,13 @@
+#main-title {
+    color: rgb(21, 213, 10);
+    font-size: 40px;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: rgb(42, 39, 39);
+  }
+  
+  p {
+    color: rgb(253, 253, 253);
+  }
